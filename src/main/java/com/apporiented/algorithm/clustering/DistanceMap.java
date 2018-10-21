@@ -1,4 +1,4 @@
-package com.apporiented.algorithm.clustering;
+package main.java.com.apporiented.algorithm.clustering.clustering;
 
 import java.util.*;
 

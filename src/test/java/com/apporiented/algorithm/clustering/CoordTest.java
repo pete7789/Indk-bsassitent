@@ -1,6 +1,6 @@
-package com.apporiented.algorithm.clustering;
+package main.java.com.apporiented.algorithm.clustering.clustering;
 
-import com.apporiented.algorithm.clustering.visualization.DendrogramPanel;
+import main.java.com.apporiented.algorithm.clustering.clustering.visualization.DendrogramPanel;
 
 import javax.swing.*;
 import java.awt.*;

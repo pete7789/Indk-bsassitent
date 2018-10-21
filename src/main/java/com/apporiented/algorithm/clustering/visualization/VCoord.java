@@ -14,7 +14,7 @@
  * limitations under the License.
  ******************************************************************************/
 
-package com.apporiented.algorithm.clustering.visualization;
+package main.java.com.apporiented.algorithm.clustering.clustering.visualization;
 
 /** 
  * Virtual coordinates.

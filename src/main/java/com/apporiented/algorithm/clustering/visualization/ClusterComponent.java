@@ -14,7 +14,7 @@
  * limitations under the License.
  ******************************************************************************/
 
-package com.apporiented.algorithm.clustering.visualization;
+package main.java.com.apporiented.algorithm.clustering.clustering.visualization;
 
 import java.awt.FontMetrics;
 import java.awt.Graphics2D;
@@ -22,7 +22,7 @@ import java.awt.geom.Rectangle2D;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.apporiented.algorithm.clustering.Cluster;
+import main.java.com.apporiented.algorithm.clustering.clustering.Cluster;
 
 
 public class ClusterComponent implements Paintable {

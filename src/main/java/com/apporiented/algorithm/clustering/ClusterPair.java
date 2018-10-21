@@ -14,7 +14,7 @@
  * limitations under the License.
  ******************************************************************************/
 
-package com.apporiented.algorithm.clustering;
+package main.java.com.apporiented.algorithm.clustering.clustering;
 
 public class ClusterPair implements Comparable<ClusterPair> {
 

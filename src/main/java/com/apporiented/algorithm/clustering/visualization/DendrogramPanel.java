@@ -14,7 +14,7 @@
  * limitations under the License.
  ******************************************************************************/
 
-package com.apporiented.algorithm.clustering.visualization;
+package main.java.com.apporiented.algorithm.clustering.clustering.visualization;
 
 import java.awt.BasicStroke;
 import java.awt.BorderLayout;
@@ -26,10 +26,10 @@ import java.awt.geom.Rectangle2D;
 
 import javax.swing.*;
 
-import com.apporiented.algorithm.clustering.AverageLinkageStrategy;
-import com.apporiented.algorithm.clustering.Cluster;
-import com.apporiented.algorithm.clustering.ClusteringAlgorithm;
-import com.apporiented.algorithm.clustering.DefaultClusteringAlgorithm;
+import main.java.com.apporiented.algorithm.clustering.clustering.AverageLinkageStrategy;
+import main.java.com.apporiented.algorithm.clustering.clustering.Cluster;
+import main.java.com.apporiented.algorithm.clustering.clustering.ClusteringAlgorithm;
+import main.java.com.apporiented.algorithm.clustering.clustering.DefaultClusteringAlgorithm;
 
 public class DendrogramPanel extends JPanel {
 
