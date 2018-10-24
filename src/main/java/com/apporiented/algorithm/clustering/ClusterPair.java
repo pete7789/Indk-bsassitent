@@ -16,6 +16,9 @@
 
 package main.java.com.apporiented.algorithm.clustering.clustering;
 
+import main.java.com.apporiented.algorithm.clustering.Cluster;
+import main.java.com.apporiented.algorithm.clustering.Distance;
+
 public class ClusterPair implements Comparable<ClusterPair> {
 
     private static long globalIndex = 0;

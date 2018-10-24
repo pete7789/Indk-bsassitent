@@ -26,8 +26,8 @@ import java.awt.geom.Rectangle2D;
 
 import javax.swing.*;
 
-import main.java.com.apporiented.algorithm.clustering.clustering.AverageLinkageStrategy;
-import main.java.com.apporiented.algorithm.clustering.clustering.Cluster;
+import main.java.com.apporiented.algorithm.clustering.AverageLinkageStrategy;
+import main.java.com.apporiented.algorithm.clustering.Cluster;
 import main.java.com.apporiented.algorithm.clustering.clustering.ClusteringAlgorithm;
 import main.java.com.apporiented.algorithm.clustering.clustering.DefaultClusteringAlgorithm;
 

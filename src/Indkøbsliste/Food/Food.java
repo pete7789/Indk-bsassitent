@@ -10,4 +10,7 @@ public interface Food {
     int getsugar();
     int getsalt();
     */
+    Foodstats addfoods();
+
+    Foodstats removefoods();
 }

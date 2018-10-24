@@ -16,6 +16,9 @@
 
 package main.java.com.apporiented.algorithm.clustering.clustering;
 
+import main.java.com.apporiented.algorithm.clustering.Cluster;
+import main.java.com.apporiented.algorithm.clustering.Distance;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;

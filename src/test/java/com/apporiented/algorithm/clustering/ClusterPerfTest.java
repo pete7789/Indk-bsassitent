@@ -16,6 +16,8 @@
 
 package main.java.com.apporiented.algorithm.clustering.clustering;
 
+import main.java.com.apporiented.algorithm.clustering.AverageLinkageStrategy;
+import main.java.com.apporiented.algorithm.clustering.Cluster;
 import org.junit.Test;
 
 import java.util.Random;

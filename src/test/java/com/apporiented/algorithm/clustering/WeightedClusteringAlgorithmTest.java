@@ -16,6 +16,7 @@
 
 package main.java.com.apporiented.algorithm.clustering.clustering;
 
+import main.java.com.apporiented.algorithm.clustering.Cluster;
 import org.junit.Assert;
 import org.junit.Test;
 
