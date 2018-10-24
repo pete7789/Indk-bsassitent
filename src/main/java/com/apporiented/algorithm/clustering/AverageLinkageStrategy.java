@@ -14,11 +14,11 @@
  * limitations under the License.
  ******************************************************************************/
 
-package main.java.com.apporiented.algorithm.clustering.clustering;
+package main.java.com.apporiented.algorithm.clustering;
 
 import java.util.Collection;
 
-public class AverageLinkageStrategy implements LinkageStrategy {
+public class AverageLinkageStrategy implements main.java.com.apporiented.algorithm.clustering.clustering.LinkageStrategy {
 
 	@Override
 	public Distance calculateDistance(Collection<Distance> distances) {

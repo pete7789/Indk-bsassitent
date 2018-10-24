@@ -22,7 +22,7 @@ import java.awt.geom.Rectangle2D;
 import java.util.ArrayList;
 import java.util.List;
 
-import main.java.com.apporiented.algorithm.clustering.clustering.Cluster;
+import main.java.com.apporiented.algorithm.clustering.Cluster;
 
 
 public class ClusterComponent implements Paintable {

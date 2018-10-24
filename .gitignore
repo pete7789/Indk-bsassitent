@@ -1,3 +1,11 @@
-
+/.settings
+/.classpath
+/.project
+/target
+/bin
+/.idea
+/hierarchical-clustering.iml
+release.properties
+pom.xml.releaseBackup
 *.xml
 *.xml

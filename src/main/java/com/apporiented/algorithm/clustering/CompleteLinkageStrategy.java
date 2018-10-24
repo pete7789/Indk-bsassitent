@@ -16,6 +16,8 @@
 
 package main.java.com.apporiented.algorithm.clustering.clustering;
 
+import main.java.com.apporiented.algorithm.clustering.Distance;
+
 import java.util.Collection;
 
 public class CompleteLinkageStrategy implements LinkageStrategy {

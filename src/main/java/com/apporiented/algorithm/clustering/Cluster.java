@@ -14,7 +14,7 @@
  * limitations under the License.
  ******************************************************************************/
 
-package main.java.com.apporiented.algorithm.clustering.clustering;
+package main.java.com.apporiented.algorithm.clustering;
 
 import java.util.ArrayList;
 import java.util.List;

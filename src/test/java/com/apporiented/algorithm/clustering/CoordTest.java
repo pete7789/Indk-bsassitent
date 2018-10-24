@@ -1,5 +1,7 @@
 package main.java.com.apporiented.algorithm.clustering.clustering;
 
+import main.java.com.apporiented.algorithm.clustering.AverageLinkageStrategy;
+import main.java.com.apporiented.algorithm.clustering.Cluster;
 import main.java.com.apporiented.algorithm.clustering.clustering.visualization.DendrogramPanel;
 
 import javax.swing.*;

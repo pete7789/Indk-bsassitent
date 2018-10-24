@@ -3,9 +3,9 @@ package Indkøbsliste.Food;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Foodstats extends Food {
-    private String foodstats:
-    private List<Foodstats> food = new ArrayList<Foodstats>();
+public class Foodstats implements Food {
+    private String foodstats;
+    private List<Foodstats> food = new ArrayList<>();
     // other fields as required
 
 
@@ -38,20 +38,23 @@ public class Foodstats extends Food {
 
     }
 
-    public List<foodstats> getFoods(){
-        return foodstats;
-    }
-
-
-
-    public Foodstats foods() {
+    public Foodstats addfoods() {
         // not sure what your intention is here, but something like this:
-        foods obj = new Foods(String, this);
+        Foodstats obj = new Foodstats(this.foodstats);
         // add new performance to list
-        foods.add(obj);
+        food.add(obj);
         return obj;
     }
 
+
+    public Foodstats removefoods(){
+
+        Foodstats obj = new Foodstats(this.foodstats);
+        // add new performance to list
+        food.remove(obj);
+        return obj;
+
+    }
 
 
 

@@ -16,17 +16,19 @@
 
 package main.java.com.apporiented.algorithm.clustering.clustering;
 
+import main.java.com.apporiented.algorithm.clustering.Cluster;
+
 import java.util.List;
 
 public interface ClusteringAlgorithm
 {
 
     public Cluster performClustering(double[][] distances, String[] clusterNames,
-                                     LinkageStrategy linkageStrategy);
+                                     main.java.com.apporiented.algorithm.clustering.clustering.LinkageStrategy linkageStrategy);
 
     public Cluster performWeightedClustering(double[][] distances, String[] clusterNames,
-                                             double[] weights, LinkageStrategy linkageStrategy);
+                                             double[] weights, main.java.com.apporiented.algorithm.clustering.clustering.LinkageStrategy linkageStrategy);
 
     public List<Cluster> performFlatClustering(double[][] distances,
-                                               String[] clusterNames, LinkageStrategy linkageStrategy, Double threshold);
+                                               String[] clusterNames, main.java.com.apporiented.algorithm.clustering.clustering.LinkageStrategy linkageStrategy, Double threshold);
 }
