@@ -1,4 +1,9 @@
 package Indkøbsliste.Food.frost;
 
-public class kødogfjerkræ {
+import Indkøbsliste.Food.Foodstats;
+
+public class kødogfjerkræ extends Foodstats {
+    protected kødogfjerkræ(String foodstats) {
+        super(foodstats);
+    }
 }

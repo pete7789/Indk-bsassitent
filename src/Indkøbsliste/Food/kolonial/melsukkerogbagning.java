@@ -1,4 +1,9 @@
 package Indkøbsliste.Food.kolonial;
 
-public class melsukkerogbagning {
+import Indkøbsliste.Food.Foodstats;
+
+public class melsukkerogbagning extends Foodstats {
+    protected melsukkerogbagning(String foodstats) {
+        super(foodstats);
+    }
 }

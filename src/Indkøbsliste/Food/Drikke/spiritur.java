@@ -1,4 +1,9 @@
 package Indkøbsliste.Food.Drikke;
 
-public class spiritur {
+import Indkøbsliste.Food.Foodstats;
+
+public class spiritur extends Foodstats {
+    protected spiritur(String foodstats) {
+        super(foodstats);
+    }
 }

@@ -1,4 +1,9 @@
 package Indkøbsliste.Food.køl;
 
-public class ægoggær {
+import Indkøbsliste.Food.Foodstats;
+
+public class ægoggær extends Foodstats {
+    protected ægoggær(String foodstats) {
+        super(foodstats);
+    }
 }

@@ -1,4 +1,9 @@
 package Indkøbsliste.Food.frost;
 
-public class fiskogskaldyr {
+import Indkøbsliste.Food.Foodstats;
+
+public class fiskogskaldyr extends Foodstats {
+    protected fiskogskaldyr(String foodstats) {
+        super(foodstats);
+    }
 }

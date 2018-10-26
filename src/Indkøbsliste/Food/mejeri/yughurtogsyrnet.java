@@ -1,4 +1,6 @@
 package Indkøbsliste.Food.mejeri;
 
-public class yughurtogsyrnet {
+import Indkøbsliste.Food.Foodstats;
+
+public class yughurtogsyrnet extends Foodstats {
 }

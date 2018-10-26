@@ -1,4 +1,9 @@
 package Indkøbsliste.Food.mejeri;
 
-public class ost {
+import Indkøbsliste.Food.Foodstats;
+
+public class ost extends Foodstats {
+    protected ost(String foodstats) {
+        super(foodstats);
+    }
 }

@@ -1,4 +1,9 @@
 package Indkøbsliste.Food.meatandfish;
 
-public class fjerkræ {
+import Indkøbsliste.Food.Foodstats;
+
+public class fjerkræ extends Foodstats {
+    protected fjerkræ(String foodstats) {
+        super(foodstats);
+    }
 }

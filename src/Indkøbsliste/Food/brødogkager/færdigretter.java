@@ -1,4 +1,9 @@
 package Indkøbsliste.Food.brødogkager;
 
-public class færdigretter {
+import Indkøbsliste.Food.Foodstats;
+
+public class færdigretter extends Foodstats {
+    protected færdigretter(String foodstats) {
+        super(foodstats);
+    }
 }

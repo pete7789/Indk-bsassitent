@@ -1,4 +1,6 @@
 package Indkøbsliste.Food.meatandfish;
 
-public class svinekød {
+import Indkøbsliste.Food.Foodstats;
+
+public class svinekød extends Foodstats {
 }

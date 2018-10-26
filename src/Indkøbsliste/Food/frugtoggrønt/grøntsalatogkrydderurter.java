@@ -1,4 +1,9 @@
 package Indkøbsliste.Food.frugtoggrønt;
 
-public class grøntsalatogkrydderurter {
+import Indkøbsliste.Food.Foodstats;
+
+public class grøntsalatogkrydderurter extends Foodstats {
+    protected grøntsalatogkrydderurter(String foodstats) {
+        super(foodstats);
+    }
 }

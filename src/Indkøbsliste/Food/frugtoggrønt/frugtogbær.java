@@ -1,4 +1,9 @@
 package Indkøbsliste.Food.frugtoggrønt;
 
-public class frugtogbær {
+import Indkøbsliste.Food.Foodstats;
+
+public class frugtogbær extends Foodstats {
+    protected frugtogbær(String foodstats) {
+        super(foodstats);
+    }
 }

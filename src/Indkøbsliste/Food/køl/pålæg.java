@@ -1,4 +1,9 @@
 package Indkøbsliste.Food.køl;
 
-public class pålæg {
+import Indkøbsliste.Food.Foodstats;
+
+public class pålæg extends Foodstats {
+    protected pålæg(String foodstats) {
+        super(foodstats);
+    }
 }

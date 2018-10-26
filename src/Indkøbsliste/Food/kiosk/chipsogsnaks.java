@@ -1,4 +1,9 @@
 package Indkøbsliste.Food.kiosk;
 
-public class chipsogsnaks {
+import Indkøbsliste.Food.Foodstats;
+
+public class chipsogsnaks extends Foodstats {
+    protected chipsogsnaks(String foodstats) {
+        super(foodstats);
+    }
 }

@@ -1,4 +1,6 @@
 package Indkøbsliste.Food.kolonial;
 
-public class marmelader {
+import Indkøbsliste.Food.Foodstats;
+
+public class marmelader extends Foodstats {
 }

@@ -1,4 +1,9 @@
 package Indkøbsliste.Food.frost;
 
-public class isogdessert {
+import Indkøbsliste.Food.Foodstats;
+
+public class isogdessert extends Foodstats {
+    protected isogdessert(String foodstats) {
+        super(foodstats);
+    }
 }

@@ -1,4 +1,9 @@
 package Indkøbsliste.Food.Drikke;
 
-public class vin {
+import Indkøbsliste.Food.Foodstats;
+
+public class vin extends Foodstats {
+    protected vin(String foodstats) {
+        super(foodstats);
+    }
 }
