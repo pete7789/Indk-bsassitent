@@ -1,54 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/shoppinglist/basicshoppinglist.java" line="9" mnemonic="8" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e29a263f-ee1d-4d8e-82af-c45cb14380e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/Drinks/beer_water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/bread_cakes/bread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/bread_cakes/cakes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/bread_cakes/readymeals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/diary/butterandfats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/diary/cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/diary/milkandcream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/diary/yougurtandsoured.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/frost/fish_seafood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/frost/icecream_dessert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/frost/meat_poultry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/frost/vegatables_fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/breakfast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/marmelades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/kiosk/candy_sweets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/kiosk/chips_snacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/kiosk/gum_pastilles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/pork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shoppinglist/basicshoppinglist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/juiceogsaft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/juiceogsaft.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/smoothie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/smoothie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/spiritur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/spiritur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/vin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/vin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/ølogvand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/ølogvand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager/brød.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager/brød.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager/færdigretter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager/færdigretter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager/kager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager/kager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frost/fiskogskaldyr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/frost/fiskogskaldyr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frost/grønsagerogfrugt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/frost/grønsagerogfrugt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frost/isogdessert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/frost/isogdessert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frost/kødogfjerkræ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/frost/kødogfjerkræ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/citrusfrugt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/citrusfrugt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/frugtogbær.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/frugtogbær.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/grøntsalatogkrydderurter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/grøntsalatogkrydderurter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/nødderogtørretfrugt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/nødderogtørretfrugt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/chipsogsnaks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/chipsogsnaks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/chokolader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/chokolader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/slikogbolcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/slikogbolcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/tyggegummiogpastiller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/tyggegummiogpastiller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/børnemad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/børnemad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/dressingogsovs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/dressingogsovs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/kaffeteogkakao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/kaffeteogkakao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/konservesogsurvare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/konservesogsurvare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/krydderierogbouillon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/krydderierogbouillon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/marmelader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/marmelader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/melsukkerogbagning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/melsukkerogbagning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/morgenmad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/morgenmad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/pastarisgrynbønner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/pastarisgrynbønner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/suppeogsaucer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/suppeogsaucer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/worldfood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/worldfood.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/køl/pålæg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/køl/pålæg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/køl/pølserbaconogtoppings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/køl/pølserbaconogtoppings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/køl/tilbehør.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/køl/tilbehør.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/køl/ægoggær.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/køl/ægoggær.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/fjerkræ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/fjerkræ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/kalvekød.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/kalvekød.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/lamogvildt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/lamogvildt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/svinekød.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/svinekød.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/mælkogfløde.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/mælkogfløde.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/ost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/ost.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/smørogfedtstofr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/smørogfedtstofr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/yughurtogsyrnet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/yughurtogsyrnet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/juiceogsaft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/Drinks/juice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/smoothie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/Drinks/smoothie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/spiritur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/Drinks/liquor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/vin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/Drinks/wine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/ølogvand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Foodstats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/Foodstats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager/brød.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager/færdigretter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager/kager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frost/fiskogskaldyr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frost/grønsagerogfrugt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frost/isogdessert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frost/kødogfjerkræ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/citrusfrugt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/fruit_vegatables/citrusfruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/frugtogbær.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/fruit_vegatables/fruit_berry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/grøntsalatogkrydderurter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/fruit_vegatables/vegetablessalad_herbs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/nødderogtørretfrugt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/fruit_vegatables/nødderogtørretfrugt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/chipsogsnaks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/chokolader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/kiosk/chokolate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/slikogbolcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/tyggegummiogpastiller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/børnemad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/childfood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/dressingogsovs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/dressing_sauce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/kaffeteogkakao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/coffee_cocoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/konservesogsurvare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/canned_pickledvegetables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/krydderierogbouillon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/spices_broth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/marmelader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/melsukkerogbagning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/flour_sugar_bakery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/morgenmad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/pastarisgrynbønner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/pastarisgrynbønner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/suppeogsaucer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/suppeogsaucer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/worldfood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/worldfood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/køl/pålæg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/refrigerated_goods/cold_cuts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/køl/pølserbaconogtoppings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/refrigerated_goods/sausages_bacon_toppings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/køl/tilbehør.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/refrigerated_goods/accessories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/køl/ægoggær.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/refrigerated_goods/ægoggær.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/Freshfish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/Freshfish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/Oksekød.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/beef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/fjerkræ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/poultry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/kalvekød.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/veal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/lamogvildt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/lamogvildt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/svinekød.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/mælkogfløde.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/ost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/smørogfedtstofr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/yughurtogsyrnet.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,106 +84,40 @@
     <session id="-266686146">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="47" />
+          <entry key="java" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="47" />
+          <entry key="JAVA" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="377" />
+          <entry key="dummy" value="4" />
+          <entry key="java" value="782" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="377" />
+          <entry key="JAVA" value="782" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/kalvekød.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-              <folding>
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#192#193#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/lamogvildt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-              <folding>
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/Oksekød.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/svinekød.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/mælkogfløde.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-              <folding>
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/ost.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-              <folding>
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/smørogfedtstofr.java">
+        <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/diary/butterandfats.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -173,16 +130,16 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/yughurtogsyrnet.java">
+        <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/diary/yougurtandsoured.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/Food.java">
+        <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Food.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
@@ -190,16 +147,95 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/Foodstats.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Foodstats.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="2">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/shoppinglist/basicshoppinglist.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/frost/fish_seafood.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding>
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Drinks/liquor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding>
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Drinks/smoothie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding>
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/groceries/coffee_cocoa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding>
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -250,6 +286,8 @@
         <option value="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/ost.java" />
         <option value="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/smørogfedtstofr.java" />
         <option value="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/yughurtogsyrnet.java" />
+        <option value="$PROJECT_DIR$/src/Indkøbsliste/Food/Foodstats.java" />
+        <option value="$PROJECT_DIR$/src/shoppinglist/basicshoppinglist.java" />
       </list>
     </option>
   </component>
@@ -270,7 +308,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -288,80 +325,75 @@
               <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Food" type="462c0819:PsiDirectoryNode" />
+              <item name="ShoppinglistFood" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Food" type="462c0819:PsiDirectoryNode" />
-              <item name="brødogkager" type="462c0819:PsiDirectoryNode" />
+              <item name="ShoppinglistFood" type="462c0819:PsiDirectoryNode" />
+              <item name="bread_cakes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Food" type="462c0819:PsiDirectoryNode" />
-              <item name="Drikke" type="462c0819:PsiDirectoryNode" />
+              <item name="ShoppinglistFood" type="462c0819:PsiDirectoryNode" />
+              <item name="Drinks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Food" type="462c0819:PsiDirectoryNode" />
+              <item name="ShoppinglistFood" type="462c0819:PsiDirectoryNode" />
               <item name="frost" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Food" type="462c0819:PsiDirectoryNode" />
-              <item name="frugtoggrønt" type="462c0819:PsiDirectoryNode" />
+              <item name="ShoppinglistFood" type="462c0819:PsiDirectoryNode" />
+              <item name="fruit_vegatables" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Food" type="462c0819:PsiDirectoryNode" />
+              <item name="ShoppinglistFood" type="462c0819:PsiDirectoryNode" />
+              <item name="groceries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ShoppinglistFood" type="462c0819:PsiDirectoryNode" />
               <item name="kiosk" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Food" type="462c0819:PsiDirectoryNode" />
-              <item name="kolonial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Food" type="462c0819:PsiDirectoryNode" />
-              <item name="køl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Food" type="462c0819:PsiDirectoryNode" />
+              <item name="ShoppinglistFood" type="462c0819:PsiDirectoryNode" />
               <item name="meatandfish" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Food" type="462c0819:PsiDirectoryNode" />
-              <item name="mejeri" type="462c0819:PsiDirectoryNode" />
+              <item name="ShoppinglistFood" type="462c0819:PsiDirectoryNode" />
+              <item name="refrigerated_goods" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541422579976" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -388,28 +420,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540544163775</updated>
-      <workItem from="1540544165122" duration="903000" />
+      <workItem from="1540544165122" duration="1488000" />
+      <workItem from="1540809641324" duration="9000" />
+      <workItem from="1540976218054" duration="6640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="903000" />
+    <option name="totallyTimeSpent" value="8137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="786" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -417,15 +446,19 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,7 +468,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager/brød.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/bread_cakes/bread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
@@ -446,7 +479,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager/færdigretter.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/bread_cakes/readymeals.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -457,7 +490,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager/kager.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/bread_cakes/cakes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -468,7 +501,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/juiceogsaft.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Drinks/juice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -479,29 +512,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/smoothie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/spiritur.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/vin.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Drinks/wine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -512,7 +523,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/ølogvand.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Drinks/beer_water.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -523,18 +534,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/frost/fiskogskaldyr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/frost/grønsagerogfrugt.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/frost/vegatables_fruit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -545,7 +545,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/frost/isogdessert.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/frost/icecream_dessert.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -556,7 +556,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/frost/kødogfjerkræ.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/frost/meat_poultry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
@@ -567,7 +567,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/citrusfrugt.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/fruit_vegatables/citrusfruit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -578,7 +578,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/frugtogbær.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/fruit_vegatables/fruit_berry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -589,7 +589,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/grøntsalatogkrydderurter.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/fruit_vegatables/vegetablessalad_herbs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -600,7 +600,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/nødderogtørretfrugt.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/fruit_vegatables/nødderogtørretfrugt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -611,7 +611,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/chipsogsnaks.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/kiosk/chips_snacks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -622,7 +622,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/chokolader.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/kiosk/chokolate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -633,7 +633,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/slikogbolcher.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/kiosk/candy_sweets.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -644,7 +644,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/tyggegummiogpastiller.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/kiosk/gum_pastilles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -655,18 +655,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/børnemad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/dressingogsovs.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/groceries/dressing_sauce.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -677,18 +666,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/kaffeteogkakao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/konservesogsurvare.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/groceries/canned_pickledvegetables.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -699,7 +677,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/krydderierogbouillon.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/groceries/spices_broth.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -710,14 +688,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/marmelader.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/groceries/marmelades.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/melsukkerogbagning.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/groceries/flour_sugar_bakery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -728,14 +706,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/morgenmad.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/groceries/breakfast.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/worldfood.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/groceries/worldfood.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
@@ -746,7 +724,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/pastarisgrynbønner.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/groceries/pastarisgrynbønner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -757,7 +735,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/suppeogsaucer.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/groceries/suppeogsaucer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -768,7 +746,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/køl/pålæg.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/refrigerated_goods/cold_cuts.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -779,7 +757,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/køl/pølserbaconogtoppings.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/refrigerated_goods/sausages_bacon_toppings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -790,7 +768,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/køl/tilbehør.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/refrigerated_goods/accessories.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -801,7 +779,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/køl/ægoggær.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/refrigerated_goods/ægoggær.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -812,7 +790,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/fjerkræ.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/poultry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -823,14 +801,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/Freshfish.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/Freshfish.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/kalvekød.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/veal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -841,7 +819,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/lamogvildt.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/lamogvildt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -852,21 +830,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/Oksekød.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/beef.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/svinekød.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/pork.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/mælkogfløde.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/diary/milkandcream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -877,7 +855,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/ost.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/diary/cheese.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -888,7 +866,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/smørogfedtstofr.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/diary/butterandfats.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
@@ -899,26 +877,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/yughurtogsyrnet.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/diary/yougurtandsoured.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/Food.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Drinks/liquor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Drinks/smoothie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/groceries/coffee_cocoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Food.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/Foodstats.java">
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Foodstats.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="2">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/frost/fish_seafood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/groceries/childfood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shoppinglist/basicshoppinglist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
