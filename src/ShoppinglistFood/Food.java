@@ -1,4 +1,4 @@
-package Indkøbsliste.Food;
+package ShoppinglistFood;
 
 public interface Food {
 
