@@ -1,43 +1,58 @@
 package Indkøbsliste.Food;
 
 public class Product {
-    String Name;
-    double Price;
-    String Offer;
-    String Unit;
-    String Image;
-    String Store;
-
-    public Product(String name, double price, String offer, String unit, String image, String store) {
-        Name = name;
-        Price = price;
-        Offer = offer;
-        Unit = unit;
-        Image = image;
-        Store = store;
-    }
+    private String name;
+    private String price;
+    private String offer;
+    private String unit;
+    private String img;
+    private String store;
 
     public String getName() {
-        return Name;
+        return name;
     }
 
-    public double getPrice() {
-        return Price;
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getPrice() {
+        return price;
+    }
+
+    public void setPrice(String price) {
+        this.price = price;
     }
 
     public String getOffer() {
-        return Offer;
+        return offer;
+    }
+
+    public void setOffer(String offer) {
+        this.offer = offer;
     }
 
     public String getUnit() {
-        return Unit;
+        return unit;
     }
 
-    public String getImage() {
-        return Image;
+    public void setUnit(String unit) {
+        this.unit = unit;
+    }
+
+    public String getImg() {
+        return img;
+    }
+
+    public void setImg(String img) {
+        this.img = img;
     }
 
     public String getStore() {
-        return Store;
+        return store;
+    }
+
+    public void setStore(String store) {
+        this.store = store;
     }
 }
