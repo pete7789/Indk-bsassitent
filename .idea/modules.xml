@@ -3,6 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Indkøbsassitent.iml" filepath="$PROJECT_DIR$/Indkøbsassitent.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/poi-4.0.0/src/examples/examples.iml" filepath="$USER_HOME$/Downloads/poi-4.0.0/src/examples/examples.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/poi-4.0.0/src/excelant/excelant.iml" filepath="$USER_HOME$/Downloads/poi-4.0.0/src/excelant/excelant.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/poi-4.0.0/osgi/src/main/main.iml" filepath="$USER_HOME$/Downloads/poi-4.0.0/osgi/src/main/main.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/poi-4.0.0/src/ooxml/ooxml.iml" filepath="$USER_HOME$/Downloads/poi-4.0.0/src/ooxml/ooxml.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/poi-4.0.0/src/poi-4.0.0.iml" filepath="$USER_HOME$/Downloads/poi-4.0.0/src/poi-4.0.0.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/poi-4.0.0/poi-4.0.01.iml" filepath="$USER_HOME$/Downloads/poi-4.0.0/poi-4.0.01.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/poi-4.0.0/src/contrib/poi-ruby/poi-ruby.iml" filepath="$USER_HOME$/Downloads/poi-4.0.0/src/contrib/poi-ruby/poi-ruby.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/poi-4.0.0/src/scratchpad/scratchpad.iml" filepath="$USER_HOME$/Downloads/poi-4.0.0/src/scratchpad/scratchpad.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/poi-4.0.0/osgi/src/test/test.iml" filepath="$USER_HOME$/Downloads/poi-4.0.0/osgi/src/test/test.iml" />
     </modules>
   </component>
 </project>
