@@ -38,6 +38,7 @@ public class Quicksort {
         if (startingIndex < endingIndex) {
             int partitioningIndex = partition(array, startingIndex, endingIndex);
 
+            //Sorting elements recursively before and after partition
             quickSort(array, startingIndex, partitioningIndex-1);
             quickSort(array, partitioningIndex +1, endingIndex);
         }
