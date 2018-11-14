@@ -17,7 +17,7 @@ public class Json_to_java {
 
             Gson gson = new Gson();
 
-            String[] Store = new String[]{"Bilka", "Fotex"};
+            String[] Store = new String[]{"Bilka", "Foetex"};
 
             for (String aStore : Store) {
                 BufferedReader in = new BufferedReader(new FileReader("C:\\Users\\mikke\\Desktop\\Indk-bsassitent\\src\\Services\\Scripts\\" + aStore + ".json")); // TODO find a better path
