@@ -1,4 +1,4 @@
-package Sort;
+/*package Sort;
 
 import java.util.Comparator;
 
@@ -19,3 +19,4 @@ public class Quicksort implements Comparator<CLASS>{
 }
 
 //Collections.sort(LIST, new Quicksort());
+*/

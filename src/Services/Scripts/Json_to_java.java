@@ -20,7 +20,7 @@ public class Json_to_java {
             String[] Store = new String[]{"Bilka", "Foetex"};
 
             for (String aStore : Store) {
-                BufferedReader in = new BufferedReader(new FileReader("C:\\Users\\mikke\\Desktop\\Indk-bsassitent\\src\\Services\\Scripts\\" + aStore + ".json")); // TODO find a better path
+                BufferedReader in = new BufferedReader(new FileReader("Scripts/" + aStore + ".json")); // TODO find a better path
                 boolean done = false;
                 while (!done) {
                     String s = in.readLine();
@@ -29,10 +29,9 @@ public class Json_to_java {
                     } else {
                         Product product = gson.fromJson(s, Product.class);
                         product.setStore(aStore);
-                        System.out.println(product.getStore());
+                        products.add(product);
                     }
                 }
-
             }
             return products;
         }
