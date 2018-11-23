@@ -9,7 +9,7 @@ import java.nio.file.Paths;
 
 public class dtugetinfo{
 
-    private static final String DTU_GET_INFO = "src/Nutrition/Fodevaredata_prog_v3_new.csv";
+    private static final String DTU_GET_INFO = "C:\\Users\\murat\\OneDrive\\Dokumenter\\Indk-bsassitent\\src\\Nutrition\\Fodevaredata_prog_v3_new.csv";
 
     public static void main(String[] args) throws IOException {
            try (
