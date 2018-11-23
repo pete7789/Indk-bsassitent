@@ -1,6 +1,7 @@
 package Nutrition;
 
 import com.opencsv.CSVReader;
+import com.opencsv.CSVReaderBuilder;
 import java.io.IOException;
 import java.io.Reader;
 import java.nio.file.Files;
@@ -14,7 +15,8 @@ public class dtugetinfo{
     public static void main(String[] args) throws IOException {
            try (
                 Reader reader = Files.newBufferedReader(Paths.get(DTU_GET_INFO));
-                CSVReader csvReader = new CSVReader(reader)
+                CSVReader csvReader = new CSVReaderBuilder(reader).withSkipLines(3).build()
+
                 )
         {
             String[] nextReading;
