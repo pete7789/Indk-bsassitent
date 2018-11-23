@@ -1,77 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/shoppinglist/basicshoppinglist.java" line="9" mnemonic="8" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="e29a263f-ee1d-4d8e-82af-c45cb14380e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/Drinks/beer_water.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/bread_cakes/bread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/bread_cakes/cakes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/bread_cakes/readymeals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/diary/butterandfats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/diary/cheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/diary/milkandcream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/diary/yougurtandsoured.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/frost/fish_seafood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/frost/icecream_dessert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/frost/meat_poultry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/frost/vegatables_fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/breakfast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/marmelades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/kiosk/candy_sweets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/kiosk/chips_snacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/kiosk/gum_pastilles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/pork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shoppinglist/basicshoppinglist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/juiceogsaft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/Drinks/juice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/smoothie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/Drinks/smoothie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/spiritur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/Drinks/liquor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/vin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/Drinks/wine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/ølogvand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/Foodstats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/Foodstats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager/brød.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager/færdigretter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager/kager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frost/fiskogskaldyr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frost/grønsagerogfrugt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frost/isogdessert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frost/kødogfjerkræ.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/citrusfrugt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/fruit_vegatables/citrusfruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/frugtogbær.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/fruit_vegatables/fruit_berry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/grøntsalatogkrydderurter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/fruit_vegatables/vegetablessalad_herbs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/frugtoggrønt/nødderogtørretfrugt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/fruit_vegatables/nødderogtørretfrugt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/chipsogsnaks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/chokolader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/kiosk/chokolate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/slikogbolcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kiosk/tyggegummiogpastiller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/børnemad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/childfood.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/dressingogsovs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/dressing_sauce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/kaffeteogkakao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/coffee_cocoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/konservesogsurvare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/canned_pickledvegetables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/krydderierogbouillon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/spices_broth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/marmelader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/melsukkerogbagning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/flour_sugar_bakery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/morgenmad.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/pastarisgrynbønner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/pastarisgrynbønner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/suppeogsaucer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/suppeogsaucer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/kolonial/worldfood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/groceries/worldfood.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/køl/pålæg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/refrigerated_goods/cold_cuts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/køl/pølserbaconogtoppings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/refrigerated_goods/sausages_bacon_toppings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/køl/tilbehør.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/refrigerated_goods/accessories.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/køl/ægoggær.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/refrigerated_goods/ægoggær.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/Freshfish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/Freshfish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/Oksekød.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/beef.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/fjerkræ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/poultry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/kalvekød.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/veal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/lamogvildt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/lamogvildt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/meatandfish/svinekød.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/mælkogfløde.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/ost.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/smørogfedtstofr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/yughurtogsyrnet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indkobsassitent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Indkobsassitent.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -113,54 +47,40 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-508287991">
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1079" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1079" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="6" />
+          <entry key="json" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="6" />
+          <entry key="JSON" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/diary/butterandfats.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-              <folding>
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/diary/yougurtandsoured.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Food.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Foodstats.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/shoppinglist/basicshoppinglist.java">
+        <entry file="file://$PROJECT_DIR$/src/Services/Scripts/Json_to_java.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="221">
+              <caret line="22" column="135" lean-forward="true" selection-start-line="22" selection-start-column="135" selection-end-line="22" selection-end-column="135" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -169,53 +89,123 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/frost/fish_seafood.java">
+        <entry file="file://$PROJECT_DIR$/src/Services/Scripts/Fotex.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="543">
+              <caret line="9534" selection-start-line="9534" selection-end-line="9534" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Services/Scripts/Bilka.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122094">
+              <caret line="7182" selection-start-line="7182" selection-end-line="7182" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/apporiented/algorithm/clustering/visualization/ClusterComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
               <folding>
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#1969#1970#0" expanded="true" />
+                <element signature="e#2001#2002#0" expanded="true" />
+                <element signature="e#2051#2052#0" expanded="true" />
+                <element signature="e#2093#2094#0" expanded="true" />
+                <element signature="e#2129#2130#0" expanded="true" />
+                <element signature="e#2161#2162#0" expanded="true" />
+                <element signature="e#2211#2212#0" expanded="true" />
+                <element signature="e#2253#2254#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Drinks/liquor.java">
+        <entry file="file://$PROJECT_DIR$/src/Services/Autonode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Drinks/smoothie.java">
+        <entry file="file://$PROJECT_DIR$/src/Services/Scripts/hest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="153">
+              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
               <folding>
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/groceries/coffee_cocoa.java">
+        <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="170">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
               <folding>
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
+                <element signature="e#603#604#0" expanded="true" />
+                <element signature="e#634#635#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#733#734#0" expanded="true" />
+                <element signature="e#763#764#0" expanded="true" />
+                <element signature="e#789#790#0" expanded="true" />
+                <element signature="e#827#828#0" expanded="true" />
+                <element signature="e#857#858#0" expanded="true" />
+                <element signature="e#889#890#0" expanded="true" />
+                <element signature="e#917#918#0" expanded="true" />
+                <element signature="e#959#960#0" expanded="true" />
+                <element signature="e#993#994#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Services/Scripts/bilka.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="30" selection-start-column="23" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Searching/Searching.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -243,7 +233,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager/færdigretter.java" />
         <option value="$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager/brød.java" />
         <option value="$PROJECT_DIR$/src/Indkøbsliste/Food/brødogkager/kager.java" />
         <option value="$PROJECT_DIR$/src/Indkøbsliste/Food/Drikke/juiceogsaft.java" />
@@ -288,6 +277,13 @@
         <option value="$PROJECT_DIR$/src/Indkøbsliste/Food/mejeri/yughurtogsyrnet.java" />
         <option value="$PROJECT_DIR$/src/Indkøbsliste/Food/Foodstats.java" />
         <option value="$PROJECT_DIR$/src/shoppinglist/basicshoppinglist.java" />
+        <option value="$PROJECT_DIR$/src/Searching/Json_to_java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/apporiented/algorithm/clustering/visualization/ClusterComponent.java" />
+        <option value="$PROJECT_DIR$/src/Indkøbsliste/Food/Product.java" />
+        <option value="$PROJECT_DIR$/src/Services/Scripts/main.java" />
+        <option value="$PROJECT_DIR$/src/Services/Scripts/hest.java" />
+        <option value="$PROJECT_DIR$/src/Services/Scripts/Json_to_java.java" />
+        <option value="$PROJECT_DIR$/src/Services/Autonode.java" />
       </list>
     </option>
   </component>
@@ -297,18 +293,48 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Jackson-core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Jackson-core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Jackson-core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Jackson-core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="junit:junit:4.12" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="43" />
-    <option name="width" value="1400" />
-    <option name="height" value="786" />
+    <option name="x" value="-8" />
+    <option name="y" value="2" />
+    <option name="width" value="1934" />
+    <option name="height" value="1037" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -319,83 +345,68 @@
             <path>
               <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ShoppinglistFood" type="462c0819:PsiDirectoryNode" />
+              <item name="Food" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ShoppinglistFood" type="462c0819:PsiDirectoryNode" />
-              <item name="bread_cakes" type="462c0819:PsiDirectoryNode" />
+              <item name="clustering" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ShoppinglistFood" type="462c0819:PsiDirectoryNode" />
-              <item name="Drinks" type="462c0819:PsiDirectoryNode" />
+              <item name="clustering" type="462c0819:PsiDirectoryNode" />
+              <item name="visualization" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ShoppinglistFood" type="462c0819:PsiDirectoryNode" />
-              <item name="frost" type="462c0819:PsiDirectoryNode" />
+              <item name="Searching" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ShoppinglistFood" type="462c0819:PsiDirectoryNode" />
-              <item name="fruit_vegatables" type="462c0819:PsiDirectoryNode" />
+              <item name="Services" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ShoppinglistFood" type="462c0819:PsiDirectoryNode" />
-              <item name="groceries" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ShoppinglistFood" type="462c0819:PsiDirectoryNode" />
-              <item name="kiosk" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ShoppinglistFood" type="462c0819:PsiDirectoryNode" />
-              <item name="meatandfish" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Indk-bsassitent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Indk-bsassitent" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ShoppinglistFood" type="462c0819:PsiDirectoryNode" />
-              <item name="refrigerated_goods" type="462c0819:PsiDirectoryNode" />
+              <item name="Services" type="462c0819:PsiDirectoryNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541422579976" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541666642988" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/gson-2.8.5.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.36822772" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -409,6 +420,121 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Application.Autonode">
+    <configuration name="Autonode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Services.Autonode" />
+      <module name="Indkobsassitent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Json_to_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Services.Scripts.Json_to_java" />
+      <module name="Indkobsassitent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Services.Scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Services.Scripts.hest" />
+      <module name="Indkobsassitent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Services.Scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Services.Scripts.main" />
+      <module name="Indkobsassitent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Services.Scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Indkobsassitent" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Indkobsassitent" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Autonode" />
+      <item itemvalue="Application.Json_to_java" />
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.hest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Autonode" />
+        <item itemvalue="Application.hest" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Json_to_java" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -427,29 +553,39 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8137000" />
+    <option name="totallyTimeSpent" value="26853000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="43" width="1400" height="786" extended-state="0" />
+    <frame x="-6" y="2" width="1547" height="829" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.26025555" />
+      <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.25938338" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.3347701" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49865952" weight="0.32956153" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49932975" visible="true" weight="0.32902297" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49932975" weight="0.32956153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -458,7 +594,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3295302" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,179 +604,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/bread_cakes/bread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/bread_cakes/readymeals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/bread_cakes/cakes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Drinks/juice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Drinks/wine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Drinks/beer_water.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/frost/vegatables_fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/frost/icecream_dessert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/frost/meat_poultry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/fruit_vegatables/citrusfruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/fruit_vegatables/fruit_berry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/fruit_vegatables/vegetablessalad_herbs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/fruit_vegatables/nødderogtørretfrugt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/kiosk/chips_snacks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/kiosk/chokolate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/kiosk/candy_sweets.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -648,10 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -659,10 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -670,10 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -681,10 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -699,10 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -717,32 +664,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/groceries/pastarisgrynbønner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/groceries/pastarisgrynbønner.java" />
     <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/groceries/suppeogsaucer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -750,10 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -761,10 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -772,32 +693,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/refrigerated_goods/ægoggær.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/refrigerated_goods/ægoggær.java" />
     <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/poultry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -812,24 +715,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/lamogvildt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/lamogvildt.java" />
     <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/meatandfish/beef.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -844,54 +733,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/diary/milkandcream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/diary/milkandcream.java" />
     <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/diary/cheese.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/diary/butterandfats.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/diary/yougurtandsoured.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/diary/butterandfats.java" />
+    <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/diary/yougurtandsoured.java" />
     <entry file="file://$PROJECT_DIR$/src/ShoppinglistFood/Drinks/liquor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -899,10 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -910,10 +761,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -935,10 +782,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -951,8 +794,171 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/shoppinglist/basicshoppinglist.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="187">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/jackson-databind-2.9.7.jar!/com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-769">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/Uni/2. semester/Objektorienteret programmering (OOP)/Eksamen/Twilight_Imperium/src/Galaxy/Galaxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-424">
+          <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#8103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Uni/2. semester/Objektorienteret programmering (OOP)/Eksamen/Twilight_Imperium/src/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="218" selection-start-line="218" selection-end-line="218" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Indkøbsliste/Food/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Services/Scripts/bilka.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Searching/Searching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Services/Scripts/Fotex.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="9534" selection-start-line="9534" selection-end-line="9534" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Services/Scripts/Bilka.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122094">
+          <caret line="7182" selection-start-line="7182" selection-end-line="7182" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/apporiented/algorithm/clustering/visualization/ClusterComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+          <folding>
+            <element signature="e#1969#1970#0" expanded="true" />
+            <element signature="e#2001#2002#0" expanded="true" />
+            <element signature="e#2051#2052#0" expanded="true" />
+            <element signature="e#2093#2094#0" expanded="true" />
+            <element signature="e#2129#2130#0" expanded="true" />
+            <element signature="e#2161#2162#0" expanded="true" />
+            <element signature="e#2211#2212#0" expanded="true" />
+            <element signature="e#2253#2254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Services/Scripts/hest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Services/Autonode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Services/Scripts/Json_to_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" column="135" lean-forward="true" selection-start-line="22" selection-start-column="135" selection-end-line="22" selection-end-column="135" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -962,6 +968,77 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>apporiented</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.36822772" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.36822772" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -974,5 +1051,8 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
   </component>
 </project>

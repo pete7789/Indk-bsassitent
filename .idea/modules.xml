@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Indk-bsassitent.iml" filepath="$PROJECT_DIR$/Indk-bsassitent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Indkobsassitent.iml" filepath="$PROJECT_DIR$/Indkobsassitent.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/test/java/com/apporiented/apporiented.iml" filepath="$PROJECT_DIR$/src/test/java/com/apporiented/apporiented.iml" />
     </modules>
   </component>
