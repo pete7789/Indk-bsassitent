@@ -15,7 +15,7 @@ for (id; id <= 431; id++) {
                 img: 'img@src'
             })
             .data(function (result) {
-                jsonfile.writeFileSync('Scripts/Foetex.json', result, {flag: 'a'});
+                jsonfile.writeFileSync('src/Services/Scripts/Foetex.json', result, {flag: 'a'});
             })
             .error(console.log)
             .debug(console.log)
