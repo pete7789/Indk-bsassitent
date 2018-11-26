@@ -4,7 +4,7 @@ import com.opencsv.bean.CsvBindByName;
 
 public class FoodData {
     @CsvBindByName
-    private String English;
+    private String EnglishName;
 
     @CsvBindByName
     private String kJ;
@@ -30,9 +30,7 @@ public class FoodData {
     @CsvBindByName
     private String Saturated;
 
-    public String getEnglish() {
-        return English;
-    }
+    public String getEnglishName() { return EnglishName; }
 
     public String getkJ() {
         return kJ;
@@ -66,9 +64,7 @@ public class FoodData {
         return Saturated;
     }
 
-    public void setEnglish(String English) {
-        English = English;
-    }
+    public void setEnglishName(String englishName) { EnglishName = englishName; }
 
     public void setkJ(String kJ) {
         this.kJ = kJ;
