@@ -1,33 +1,33 @@
 package Nutrition;
 
-import com.opencsv.bean.CsvBindByName;
+import com.opencsv.bean.CsvBindByPosition;
 
 public class FoodData {
-    @CsvBindByName
+    @CsvBindByPosition(position = 0)
     private String Englishname;
 
-    @CsvBindByName
+    @CsvBindByPosition(position = 4)
     private String kJ;
 
-    @CsvBindByName
+    @CsvBindByPosition(position = 5)
     private String kcal;
 
-    @CsvBindByName
+    @CsvBindByPosition(position = 8)
     private String Protein;
 
-    @CsvBindByName
+    @CsvBindByPosition(position = 10)
     private String Carbohydrate;
 
-    @CsvBindByName
+    @CsvBindByPosition(position = 99)
     private String Sugar;
 
-    @CsvBindByName
+    @CsvBindByPosition(position = 49)
     private String Salt;
 
-    @CsvBindByName
+    @CsvBindByPosition(position = 15)
     private String Fat;
 
-    @CsvBindByName
+    @CsvBindByPosition(position = 159)
     private String Saturated;
 
     public String getEnglishname() {

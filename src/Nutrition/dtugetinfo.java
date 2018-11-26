@@ -2,10 +2,14 @@ package Nutrition;
 
 import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;
+import com.opencsv.bean.CsvToBean;
+import com.opencsv.bean.CsvToBeanBuilder;
+
 import java.io.IOException;
 import java.io.Reader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.Iterator;
 
 
 public class dtugetinfo{
@@ -15,29 +19,55 @@ public class dtugetinfo{
     public static void main(String[] args) throws IOException {
            try (
                 Reader reader = Files.newBufferedReader(Paths.get(DTU_GET_INFO));
-                CSVReader csvReader = new CSVReaderBuilder(reader).withSkipLines(3).build()
-
                 )
         {
-            String[] nextReading;
-            while ((nextReading = csvReader.readNext()) != null) {
-                if (nextReading[99].equals("")){
-                    nextReading[99] = "0";
-                }
-                System.out.println("Food Name: " + nextReading[0]);
-                System.out.println("kJ: " + nextReading[4] + " kJ");
-                System.out.println("kcal: " + nextReading[5] + " kcal");
-                System.out.println("Protein: " + nextReading[8] + "g");
-                System.out.println("Carbohydrate: " + nextReading[10] + "g");
-                System.out.println("Sugar: " + nextReading[99] + "g");
-                System.out.println("Salt: " + nextReading[49] + "mg");
-                System.out.println("Fat: " + nextReading[15] + "g");
-                System.out.println("Saturated Fat: " + nextReading[159] + "g");
-                System.out.println("--------------------------------------");
 
+            CsvToBean<FoodData> csvToBean = new CsvToBeanBuilder(reader)
+                    .withType(FoodData.class)
+                    .withIgnoreLeadingWhiteSpace(true)
+                    .build();
+
+            Iterator<FoodData> foodDataIterator = csvToBean.iterator();
+
+            while (foodDataIterator.hasNext()){
+                FoodData foodData = foodDataIterator.next();
+                System.out.println("Food Name: " + foodData.getEnglishname());
+                System.out.println("kJ: " + foodData.getkJ() + " kJ");
+                System.out.println("kcal: " + foodData.getKcal() + " kcal");
+                System.out.println("Protein: " + foodData.getProtein() + "g");
+                System.out.println("Carbohydrate: " + foodData.getCarbohydrate() + "g");
+                System.out.println("Sugar: " + foodData.getSugar() + "g");
+                System.out.println("Salt: " + foodData.getSalt() + "mg");
+                System.out.println("Fat: " + foodData.getFat() + "g");
+                System.out.println("Saturated Fat: " + foodData.getSaturated() + "g");
+                System.out.println("--------------------------------------");
             }
+
+
         }
     }
 
+   /* public class printListOut{
+        String[] nextReading;
+            nextReading = csvReader.readNext();
+            if (nextReading[99].equals("")){
+                nextReading[99] = "0";
+            }
+        while ((nextReading = csvReader.readNext()) != null) {
+
+            System.out.println("Food Name: " + nextReading[0]);
+            System.out.println("kJ: " + nextReading[4] + " kJ");
+            System.out.println("kcal: " + nextReading[5] + " kcal");
+            System.out.println("Protein: " + nextReading[8] + "g");
+            System.out.println("Carbohydrate: " + nextReading[10] + "g");
+            System.out.println("Sugar: " + nextReading[99] + "g");
+            System.out.println("Salt: " + nextReading[49] + "mg");
+            System.out.println("Fat: " + nextReading[15] + "g");
+            System.out.println("Saturated Fat: " + nextReading[159] + "g");
+            System.out.println("--------------------------------------");
+
+        }
+    }
+*/
 }
 
