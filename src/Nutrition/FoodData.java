@@ -4,7 +4,7 @@ import com.opencsv.bean.CsvBindByName;
 
 public class FoodData {
     @CsvBindByName
-    private String EnglishName;
+    private String Englishname;
 
     @CsvBindByName
     private String kJ;
@@ -30,68 +30,72 @@ public class FoodData {
     @CsvBindByName
     private String Saturated;
 
-    public String getEnglishName() { return EnglishName; }
+    public String getEnglishname() {
+        return Englishname;
+    }
+
+    public void setEnglishname(String englishname) {
+        Englishname = englishname;
+    }
 
     public String getkJ() {
         return kJ;
+    }
+
+    public void setkJ(String kJ) {
+        this.kJ = kJ;
     }
 
     public String getKcal() {
         return kcal;
     }
 
-    public String getProtein() {
-        return Protein;
-    }
-
-    public String getCarbohydrate() {
-        return Carbohydrate;
-    }
-
-    public String getSugar() {
-        return Sugar;
-    }
-
-    public String getSalt() {
-        return Salt;
-    }
-
-    public String getFat() {
-        return Fat;
-    }
-
-    public String getSaturated() {
-        return Saturated;
-    }
-
-    public void setEnglishName(String englishName) { EnglishName = englishName; }
-
-    public void setkJ(String kJ) {
-        this.kJ = kJ;
-    }
-
     public void setKcal(String kcal) {
         this.kcal = kcal;
+    }
+
+    public String getProtein() {
+        return Protein;
     }
 
     public void setProtein(String protein) {
         Protein = protein;
     }
 
+    public String getCarbohydrate() {
+        return Carbohydrate;
+    }
+
     public void setCarbohydrate(String carbohydrate) {
         Carbohydrate = carbohydrate;
+    }
+
+    public String getSugar() {
+        return Sugar;
     }
 
     public void setSugar(String sugar) {
         Sugar = sugar;
     }
 
+    public String getSalt() {
+        return Salt;
+    }
+
     public void setSalt(String salt) {
         Salt = salt;
     }
 
+    public String getFat() {
+        return Fat;
+    }
+
     public void setFat(String fat) {
         Fat = fat;
+    }
+
+    public String getSaturated() {
+        return Saturated;
     }
 
     public void setSaturated(String saturated) {
