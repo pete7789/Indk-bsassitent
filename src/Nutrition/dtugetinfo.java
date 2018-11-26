@@ -16,22 +16,22 @@ public class dtugetinfo{
 
     private static final String DTU_GET_INFO = "src/Nutrition/Fodevaredata_prog_v3_new.csv";
 
-    public static void main(String[] args) throws IOException {
+        public static void main(String[] args) throws IOException {
            try (
                 Reader reader = Files.newBufferedReader(Paths.get(DTU_GET_INFO));
                 )
         {
 
-            CsvToBean<FoodData> csvToBean = new CsvToBeanBuilder(reader)
-                    .withType(FoodData.class)
-                    .withIgnoreLeadingWhiteSpace(true)
-                    .build();
+            CsvToBeanBuilder<FoodData> csvToBeanBuilder = new CsvToBeanBuilder(reader);
+            csvToBeanBuilder.withType(FoodData.class);
+            csvToBeanBuilder.withIgnoreLeadingWhiteSpace(true);
+            CsvToBean<FoodData> csvToBean = csvToBeanBuilder.build();
 
             Iterator<FoodData> foodDataIterator = csvToBean.iterator();
 
             while (foodDataIterator.hasNext()){
                 FoodData foodData = foodDataIterator.next();
-                System.out.println("Food Name: " + foodData.getEnglishname());
+                System.out.println("Food Name: " + foodData.getName());
                 System.out.println("kJ: " + foodData.getkJ() + " kJ");
                 System.out.println("kcal: " + foodData.getKcal() + " kcal");
                 System.out.println("Protein: " + foodData.getProtein() + "g");
