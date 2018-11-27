@@ -14,7 +14,7 @@ import java.util.Iterator;
 
 public class dtugetinfo{
 
-    private static final String DTU_GET_INFO = "src/Nutrition/Fodevaredata_prog_v3_new.csv";
+    private static final String DTU_GET_INFO = "src/Nutrition/Fodevaredata_prog_v3_new2.csv";
 
         public static void main(String[] args) throws IOException {
            try (
