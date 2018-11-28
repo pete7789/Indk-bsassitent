@@ -1,7 +1,5 @@
 package Nutrition;
 
-import com.opencsv.CSVReader;
-import com.opencsv.CSVReaderBuilder;
 import com.opencsv.bean.CsvToBean;
 import com.opencsv.bean.CsvToBeanBuilder;
 
@@ -11,16 +9,14 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Iterator;
 
-
 public class dtugetinfo{
-
     private static final String DTU_GET_INFO = "src/Nutrition/Fodevaredata_prog_v3_new6.csv";
 
-        public static void main(String[] args) throws IOException {
-           try (
+    public void getInfo(String[] args) throws IOException{
+
+        try (
                 Reader reader = Files.newBufferedReader(Paths.get(DTU_GET_INFO));
-                )
-        {
+        ) {
 
             CsvToBeanBuilder<FoodData> csvToBeanBuilder = new CsvToBeanBuilder(reader).withSeparator(',');
             csvToBeanBuilder.withType(FoodData.class);
@@ -29,7 +25,7 @@ public class dtugetinfo{
 
             Iterator<FoodData> foodDataIterator = csvToBean.iterator();
 
-            while (foodDataIterator.hasNext()){
+            while (foodDataIterator.hasNext()) {
                 FoodData foodData = foodDataIterator.next();
                 System.out.println("Food Name: " + foodData.getName());
                 System.out.println("kJ: " + foodData.getkJ() + " kJ");
@@ -46,7 +42,6 @@ public class dtugetinfo{
 
         }
     }
-
    /* public class printListOut{
         String[] nextReading;
             nextReading = csvReader.readNext();
