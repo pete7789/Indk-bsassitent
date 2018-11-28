@@ -10,7 +10,7 @@ public class kcalcalcu {
    private double BMI;
    private double kcalcal;
 
-    private int getInfo;{
+    public int getPersonalInfo;{
     out.println("Input Height in meters");
     Scanner sc = new Scanner(System.in);
         Height = sc.nextDouble();
