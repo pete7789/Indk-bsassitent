@@ -11,9 +11,10 @@ public class kcalcalcu {
    private double kcalcal;
 
     private int getInfo;{
-    out.println("Input Height in meters and weight in kilos");
+    out.println("Input Height in meters");
     Scanner sc = new Scanner(System.in);
         Height = sc.nextDouble();
+    out.println("Input weight in kilos");
         Weight = sc.nextDouble();
     out.println("Your height is " + Height + "and your weight is " + Weight);
     }

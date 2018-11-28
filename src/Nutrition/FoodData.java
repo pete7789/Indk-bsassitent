@@ -7,28 +7,28 @@ public class FoodData {
     @CsvBindByPosition(position = 0)
     private String name;
 
-    @CsvBindByName(column = "EnergykJ")
+    @CsvBindByPosition(position = 4)
     private String kJ;
 
-    @CsvBindByPosition(position = 4)
+    @CsvBindByPosition(position = 5)
     private String kcal;
 
-    @CsvBindByPosition(position = 7)
+    @CsvBindByPosition(position = 8)
     private String Protein;
 
-    @CsvBindByPosition(position = 9)
+    @CsvBindByPosition(position = 10)
     private String Carbohydrate;
 
-    @CsvBindByPosition(position = 98)
+    @CsvBindByPosition(position = 99)
     private String Sugar;
 
-    @CsvBindByPosition(position = 48)
+    @CsvBindByPosition(position = 49)
     private String Salt;
 
-    @CsvBindByPosition(position = 14)
+    @CsvBindByPosition(position = 15)
     private String Fat;
 
-    @CsvBindByName
+    @CsvBindByPosition(position = 159)
     private String Saturated;
 
     public String getName() {

@@ -14,7 +14,7 @@ import java.util.Iterator;
 
 public class dtugetinfo{
 
-    private static final String DTU_GET_INFO = "src/Nutrition/Fodevaredata_prog_v3_new2.csv";
+    private static final String DTU_GET_INFO = "src/Nutrition/Fodevaredata_prog_v3_new6.csv";
 
         public static void main(String[] args) throws IOException {
            try (
@@ -22,7 +22,7 @@ public class dtugetinfo{
                 )
         {
 
-            CsvToBeanBuilder<FoodData> csvToBeanBuilder = new CsvToBeanBuilder(reader);
+            CsvToBeanBuilder<FoodData> csvToBeanBuilder = new CsvToBeanBuilder(reader).withSeparator(',');
             csvToBeanBuilder.withType(FoodData.class);
             csvToBeanBuilder.withIgnoreLeadingWhiteSpace(true);
             CsvToBean<FoodData> csvToBean = csvToBeanBuilder.build();
