@@ -34,12 +34,12 @@ public class dtugetinfo{
                 System.out.println("Food Name: " + foodData.getName());
                 System.out.println("kJ: " + foodData.getkJ() + " kJ");
                 System.out.println("kcal: " + foodData.getKcal() + " kcal");
-                System.out.println("Protein: " + foodData.getProtein() + "g");
-                System.out.println("Carbohydrate: " + foodData.getCarbohydrate() + "g");
-                System.out.println("Sugar: " + foodData.getSugar() + "g");
-                System.out.println("Salt: " + foodData.getSalt() + "mg");
-                System.out.println("Fat: " + foodData.getFat() + "g");
-                System.out.println("Saturated Fat: " + foodData.getSaturated() + "g");
+                System.out.println("Protein: " + foodData.getProtein() + " g");
+                System.out.println("Carbohydrate: " + foodData.getCarbohydrate() + " g");
+                System.out.println("Sugar: " + foodData.getSugar() + " g");
+                System.out.println("Salt: " + foodData.getSalt() + " mg");
+                System.out.println("Fat: " + foodData.getFat() + " g");
+                System.out.println("Saturated Fat: " + foodData.getSaturated() + " g");
                 System.out.println("--------------------------------------");
             }
 
