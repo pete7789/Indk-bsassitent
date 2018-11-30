@@ -16,7 +16,7 @@ public class kcalcalcu {
         Height = sc.nextDouble();
     out.println("Input weight in kilos");
         Weight = sc.nextDouble();
-    out.println("Your height is " + Height + "and your weight is " + Weight);
+    out.println("Your height is " + Height + "m and your weight is " + Weight + "kg");
     }
 
     private int calBMI;{
@@ -33,6 +33,6 @@ public class kcalcalcu {
         }
     }
     private int printInfo;{
-        System.out.println("Your calculated kcal pr day is"+ kcalcal);
+        System.out.println("Your calculated recommended kcal pr day is: "+ kcalcal);
     }
 }
