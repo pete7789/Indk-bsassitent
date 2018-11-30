@@ -1,5 +1,6 @@
 package Services.Scripts;
 
+import GUI.*;
 import Indkøbsliste.Food.Product;
 import Searching.Searching;
 
@@ -15,7 +16,21 @@ public class hest {
 
         List <Product> sort = sorted.FuzzySearchByName("æble", test, 20);
 
+        Login loginScreen = new Login();
+        loginScreen.setVisible(true);
+        loginScreen.setLocationRelativeTo(null);
 
+        Diet dietScreen = new Diet();
+        dietScreen.setVisible(true);
+        dietScreen.setLocationRelativeTo(null);
+
+        Indkoebsliste indkoebslisteScreen = new Indkoebsliste();
+        indkoebslisteScreen.setVisible(true);
+        indkoebslisteScreen.setLocationRelativeTo(null);
+
+        Opskrifter opskriftScreen = new Opskrifter();
+        opskriftScreen.setVisible(true);
+        opskriftScreen.setLocationRelativeTo(null);
 
     }
 }
