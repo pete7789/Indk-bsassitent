@@ -12,19 +12,20 @@ import java.util.Iterator;
 public class dtugetinfo{
     private static final String DTU_GET_INFO = "src/Nutrition/Fodevaredata_prog_v3_new6.csv";
 
-    public void getInfo(String[] args) throws IOException{
+    public dtugetinfo getInfo() throws IOException{
 
         try (
                 Reader reader = Files.newBufferedReader(Paths.get(DTU_GET_INFO));
         ) {
 
-            CsvToBeanBuilder<FoodData> csvToBeanBuilder = new CsvToBeanBuilder(reader).withSeparator(',');
+            CsvToBeanBuilder<FoodData> csvToBeanBuilder = new CsvToBeanBuilder(reader).withSeparator(',').withSkipLines(3);
             csvToBeanBuilder.withType(FoodData.class);
             csvToBeanBuilder.withIgnoreLeadingWhiteSpace(true);
             CsvToBean<FoodData> csvToBean = csvToBeanBuilder.build();
 
             Iterator<FoodData> foodDataIterator = csvToBean.iterator();
 
+            System.out.println("--------------------------------------");
             while (foodDataIterator.hasNext()) {
                 FoodData foodData = foodDataIterator.next();
                 System.out.println("Food Name: " + foodData.getName());
@@ -41,6 +42,7 @@ public class dtugetinfo{
 
 
         }
+        return null;
     }
    /* public class printListOut{
         String[] nextReading;
