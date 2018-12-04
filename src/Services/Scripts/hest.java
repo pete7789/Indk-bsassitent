@@ -17,7 +17,7 @@ public class hest {
 
         List <Product> sort = sorted.FuzzySearchByName("æble", test, 20);
 
-        List <recipes> AllRecipes = getRecipes.getList();
+        List <recipes> AllRecipes = Json_to_java.getRecipes();
 
         for (recipes recipe: AllRecipes){
             System.out.println(recipe.ingredient.get(1));
