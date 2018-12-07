@@ -8,7 +8,8 @@ public class kcalcalcu {
    private double Height;
    private double Weight;
    private double BMI;
-   private double kcalcal;
+   double kcalcal;
+   double kcalToKj;
 
     public int getPersonalInfo;{
     out.println("Input Height in meters");
@@ -31,6 +32,10 @@ public class kcalcalcu {
         else {
             kcalcal = Weight * 30;
         }
+    }
+
+    public double kjCalcu;{
+        kcalToKj = kcalcal * 4.184;
     }
     private int printInfo;{
         System.out.println("Your calculated recommended kcal pr day is: "+ kcalcal);
