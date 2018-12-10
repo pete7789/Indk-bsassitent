@@ -4,9 +4,11 @@ import GUI.*;
 import Indkøbsliste.Food.Product;
 import Searching.Searching;
 import Shoppinglist.Shoppinglist.Basicshoppinglist;
+import Sort.Quicksort;
 import recipes.*;
 
 import java.io.IOException;
+import java.util.Collections;
 import java.util.List;
 
 public class hest {
@@ -25,8 +27,12 @@ public class hest {
 
         newlist.addRecipie(AllRecipes.get(1));
 
+        Collections.sort(newlist.list, new Quicksort());
+
+
+
         for (Product tests : newlist.list){
-            System.out.println(tests.getName());
+            System.out.println(tests.getName() + " " + tests.getPrice() + " " + tests.getStore());
         }
 /*
         Login loginScreen = new Login();
