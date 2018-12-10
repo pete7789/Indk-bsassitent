@@ -1,73 +1,81 @@
 package GUI;
 
-public class Indkoebsliste extends javax.swing.JFrame {
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import javax.swing.*;
 
-    public Indkoebsliste() {
+class Indkoebsliste extends javax.swing.JFrame {
+
+    Indkoebsliste() {
         initComponents();
     }
 
     private void initComponents() {
 
-        jButton1 = new javax.swing.JButton();
-        jButton2 = new javax.swing.JButton();
-        jButton3 = new javax.swing.JButton();
-        jButton4 = new javax.swing.JButton();
-        jScrollPane2 = new javax.swing.JScrollPane();
-        jList1 = new javax.swing.JList<>();
+        JButton jButton1 = new JButton();
+        JButton jButton2 = new JButton();
+        JButton jButton3 = new JButton();
+        JButton jButton4 = new JButton();
+        JScrollPane jScrollPane2 = new JScrollPane();
+        JList jList1 = new JList<>();
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setTitle("Indkøbsliste");
 
         jButton1.setText("Find opskrifter");
+        jButton1.addActionListener(actionEvent -> {
+            Opskrifter opskriftScreen = new Opskrifter();
+            opskriftScreen.setVisible(true);
+            opskriftScreen.setLocationRelativeTo(null);
+        });
 
-        jButton2.setText("Del indkøbsliste");
+
+        jButton2.setText("Indstil diæt");
+        jButton2.addActionListener(actionEvent -> {
+            Diet dietScreen = new Diet();
+            dietScreen.setVisible(true);
+            dietScreen.setLocationRelativeTo(null);
+        });
 
         jButton3.setText("Fjern alt");
+        jButton3.addActionListener(actionEvent -> jList1.removeAll());
 
         jButton4.setText("Se butikker");
-        jButton4.setToolTipText("");
 
         jScrollPane2.setViewportView(jList1);
 
-        javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
+        GroupLayout layout = new GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
-                layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                layout.createParallelGroup(GroupLayout.Alignment.LEADING)
                         .addGroup(layout.createSequentialGroup()
                                 .addContainerGap()
-                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                                .addGroup(layout.createParallelGroup(GroupLayout.Alignment.LEADING)
                                         .addComponent(jScrollPane2)
                                         .addGroup(layout.createSequentialGroup()
                                                 .addComponent(jButton1)
-                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                .addPreferredGap(LayoutStyle.ComponentPlacement.RELATED)
                                                 .addComponent(jButton2)
-                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                                .addPreferredGap(LayoutStyle.ComponentPlacement.RELATED)
                                                 .addComponent(jButton3)
-                                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 118, Short.MAX_VALUE)
+                                                .addPreferredGap(LayoutStyle.ComponentPlacement.RELATED, 118, Short.MAX_VALUE)
                                                 .addComponent(jButton4)))
                                 .addContainerGap())
         );
         layout.setVerticalGroup(
-                layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                layout.createParallelGroup(GroupLayout.Alignment.LEADING)
                         .addGroup(layout.createSequentialGroup()
                                 .addContainerGap()
-                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addGroup(layout.createParallelGroup(GroupLayout.Alignment.BASELINE)
                                         .addComponent(jButton1)
                                         .addComponent(jButton2)
                                         .addComponent(jButton3)
                                         .addComponent(jButton4))
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 220, Short.MAX_VALUE)
+                                .addPreferredGap(LayoutStyle.ComponentPlacement.RELATED)
+                                .addComponent(jScrollPane2, GroupLayout.DEFAULT_SIZE, 220, Short.MAX_VALUE)
                                 .addContainerGap())
         );
 
         pack();
     }
-
-    private javax.swing.JButton jButton1;
-    private javax.swing.JButton jButton2;
-    private javax.swing.JButton jButton3;
-    private javax.swing.JButton jButton4;
-    private javax.swing.JList<String> jList1;
-    private javax.swing.JScrollPane jScrollPane2;
 }

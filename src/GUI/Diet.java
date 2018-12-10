@@ -1,4 +1,17 @@
 package GUI;
+
+import Indkøbsliste.Food.Product;
+import Searching.Searching;
+import Services.Scripts.*;
+import me.xdrop.fuzzywuzzy.FuzzySearch;
+
+import javax.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.io.IOException;
+import java.util.List;
+import java.util.Vector;
+
 public class Diet extends javax.swing.JFrame {
 
     public Diet() {
@@ -7,28 +20,42 @@ public class Diet extends javax.swing.JFrame {
 
     private void initComponents() {
 
-        jComboBox1 = new javax.swing.JComboBox<>();
-        jLabel1 = new javax.swing.JLabel();
-        jTextField1 = new javax.swing.JTextField();
-        jLabel2 = new javax.swing.JLabel();
-        jButton1 = new javax.swing.JButton();
-        jScrollPane2 = new javax.swing.JScrollPane();
-        jList1 = new javax.swing.JList<>();
+        JComboBox<String> jComboBox1 = new JComboBox<>();
+        JLabel jLabel1 = new JLabel();
+        JTextField jTextField1 = new javax.swing.JTextField();
+        JLabel jLabel2 = new JLabel();
+        JButton jButton1 = new JButton();
+        JScrollPane jScrollPane2 = new JScrollPane();
+        JList jList1 = new javax.swing.JList();
+        DefaultListModel listModel = new DefaultListModel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Diet");
 
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Paleo", "Vegetarian", "Vegan", "Kashrut", "Islamic", "Hindu", "Ketogenic", "MIND Diet" }));
-        jComboBox1.addActionListener(evt -> jComboBox1ActionPerformed(evt));
 
         jLabel1.setText("Vælg en diæt");
-
-        jTextField1.addActionListener(evt -> jTextField1ActionPerformed(evt));
 
         jLabel2.setText("Eventuelle Allergier");
 
         jButton1.setText("Søg");
-        jButton1.addActionListener(evt -> jButton1ActionPerformed(evt));
+        jButton1.addActionListener(actionEvent -> {
+            listModel.removeAllElements();
+
+            List<Product> test = null;
+            try {
+                test = new Json_to_java().make_list();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            var sorted = new Searching();
+
+            List<Product> searched = sorted.FuzzySearchByName(jTextField1.getText(), test, 20);
+
+            for (Product product : searched) listModel.addElement(product.getName());
+            jList1.setModel(listModel);
+
+        });
 
         jScrollPane2.setViewportView(jList1);
 
@@ -75,22 +102,4 @@ public class Diet extends javax.swing.JFrame {
 
         pack();
     }
-
-    private void jComboBox1ActionPerformed(java.awt.event.ActionEvent evt) {
-        // TODO add your handling code here:
-    }
-    private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {
-        // TODO add your handling code here:
-    }
-    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {
-        // TODO add your handling code here:
-    }
-
-    private javax.swing.JButton jButton1;
-    private javax.swing.JComboBox<String> jComboBox1;
-    private javax.swing.JLabel jLabel1;
-    private javax.swing.JLabel jLabel2;
-    private javax.swing.JList<String> jList1;
-    private javax.swing.JScrollPane jScrollPane2;
-    private javax.swing.JTextField jTextField1;
 }

@@ -1,5 +1,13 @@
 package GUI;
 
+import Indkøbsliste.Food.Product;
+import Searching.Searching;
+import Services.Scripts.Json_to_java;
+
+import javax.swing.*;
+import java.io.IOException;
+import java.util.List;
+
 public class Opskrifter extends javax.swing.JFrame {
 
     public Opskrifter() {
@@ -8,12 +16,13 @@ public class Opskrifter extends javax.swing.JFrame {
 
     private void initComponents() {
 
-        jLabel1 = new javax.swing.JLabel();
-        jTextField1 = new javax.swing.JTextField();
-        jButton1 = new javax.swing.JButton();
-        jScrollPane2 = new javax.swing.JScrollPane();
-        jList1 = new javax.swing.JList<>();
-        jButton2 = new javax.swing.JButton();
+        JLabel jLabel1 = new JLabel();
+        JTextField jTextField1 = new JTextField();
+        JButton jButton1 = new JButton();
+        JScrollPane jScrollPane2 = new JScrollPane();
+        JList<String> jList1 = new JList<>();
+        JButton jButton2 = new JButton();
+        DefaultListModel listModel1 = new DefaultListModel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Opskrifter");
@@ -21,11 +30,21 @@ public class Opskrifter extends javax.swing.JFrame {
         jLabel1.setText("Søg efter ingrediens eller opskrifters titler");
 
         jButton1.setText("Søg");
-        jButton1.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton1ActionPerformed(evt);
+        /*
+        jButton1.addActionListener(actionEvent -> {
+            listModel1.removeAllElements();
+            List<Product> test = null;
+            try {
+                test = null;
+            } catch (IOException e) {
+                e.printStackTrace();
             }
+            var recipes = new Searching();
+            List<Product> searched = recipes.FuzzySearchByName(jTextField1.getText(), test, 20);
+            for (Product product : searched) listModel1.addElement(product.getName());
+            jList1.setModel(listModel1);
         });
+        */
 
         jScrollPane2.setViewportView(jList1);
 
@@ -71,14 +90,4 @@ public class Opskrifter extends javax.swing.JFrame {
         pack();
     }
 
-    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {
-        // TODO add your handling code here:
-    }
-
-    private javax.swing.JButton jButton1;
-    private javax.swing.JButton jButton2;
-    private javax.swing.JLabel jLabel1;
-    private javax.swing.JList<String> jList1;
-    private javax.swing.JScrollPane jScrollPane2;
-    private javax.swing.JTextField jTextField1;
 }

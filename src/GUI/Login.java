@@ -1,5 +1,9 @@
 package GUI;
 
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import javax.swing.*;
+
 public class Login extends javax.swing.JFrame {
 
     public Login() {
@@ -8,34 +12,28 @@ public class Login extends javax.swing.JFrame {
 
     private void initComponents() {
 
-        jTextField1 = new javax.swing.JTextField();
-        jLabel1 = new javax.swing.JLabel();
-        jLabel2 = new javax.swing.JLabel();
-        jButton1 = new javax.swing.JButton();
-        jButton2 = new javax.swing.JButton();
-        jScrollPane1 = new javax.swing.JScrollPane();
-        jTextPane1 = new javax.swing.JTextPane();
+        JTextField jTextField1 = new javax.swing.JTextField();
+        JLabel jLabel1 = new javax.swing.JLabel();
+        JLabel jLabel2 = new javax.swing.JLabel();
+        JButton jButton1 = new javax.swing.JButton();
+        JButton jButton2 = new javax.swing.JButton();
+        JScrollPane jScrollPane1 = new javax.swing.JScrollPane();
+        JTextPane jTextPane1 = new javax.swing.JTextPane();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Login");
-
-        jTextField1.addActionListener(evt -> jTextField1ActionPerformed(evt));
 
         jLabel1.setText("Username");
 
         jLabel2.setText("Password");
 
         jButton1.setText("Login");
-        jButton1.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseReleased(java.awt.event.MouseEvent evt) {
-                jButton1MouseReleased(evt);
-            }
-
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jButton1MouseClicked(evt);
-            }
+        jButton1.addActionListener(actionEvent -> {
+            Indkoebsliste indkoebslisteScreen = new Indkoebsliste();
+            indkoebslisteScreen.setVisible(true);
+            indkoebslisteScreen.setLocationRelativeTo(null);
         });
-        jButton1.addActionListener(evt -> jButton1ActionPerformed(evt));
+
 
         jButton2.setText("Register");
 
@@ -85,28 +83,4 @@ public class Login extends javax.swing.JFrame {
 
         pack();
     }
-
-    private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {
-        // TODO add your handling code here:
-    }
-
-    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {
-        // TODO add your handling code here:
-    }
-
-    private void jButton1MouseClicked(java.awt.event.MouseEvent evt) {
-        // TODO add your handling code here:
-    }
-
-    private void jButton1MouseReleased(java.awt.event.MouseEvent evt) {
-        // TODO add your handling code here:
-    }
-
-    private javax.swing.JButton jButton1;
-    private javax.swing.JButton jButton2;
-    private javax.swing.JLabel jLabel1;
-    private javax.swing.JLabel jLabel2;
-    private javax.swing.JScrollPane jScrollPane1;
-    private javax.swing.JTextField jTextField1;
-    private javax.swing.JTextPane jTextPane1;
 }
