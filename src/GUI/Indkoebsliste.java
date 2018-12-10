@@ -4,9 +4,9 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
 
-class Indkoebsliste extends javax.swing.JFrame {
+public class Indkoebsliste extends javax.swing.JFrame {
 
-    Indkoebsliste() {
+    public Indkoebsliste() {
         initComponents();
     }
 
