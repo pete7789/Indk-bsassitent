@@ -8,9 +8,4 @@ public class recipes {
     public String title;
     public List<String> ingredient = new ArrayList<>();
     public String recipe;
-
-
-    public void addIngedient(String ing){
-        ingredient.add(ing);
-    }
 }
