@@ -2,8 +2,11 @@ package Shoppinglist.Shoppinglist;
 
 import Indkøbsliste.Food.Product;
 
+import Services.Scripts.Json_to_java;
 import me.xdrop.fuzzywuzzy.FuzzySearch;
 import me.xdrop.fuzzywuzzy.model.ExtractedResult;
+import recipes.recipes;
+
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -11,8 +14,13 @@ import java.util.Scanner;
 
 public class Basicshoppinglist {
 
-    ArrayList<Product> list = new ArrayList<>();
-    ArrayList<String> foodlist = new ArrayList<>();
+    public ArrayList<Product> list = new ArrayList<>();
+    List<Product> allProducts;
+    List<String> bla;
+
+    public Basicshoppinglist() throws IOException {
+        this.allProducts = new Json_to_java().make_list();
+    }
 
     //Add a new ShoppingItem to the list
     public void addItem(List<Product> items){
@@ -22,7 +30,7 @@ public class Basicshoppinglist {
         Scanner keyboard = new Scanner(System.in);
         String food = keyboard.nextLine();
 
-        List<ExtractedResult> searchResults = FuzzySearch.extractTop(food, foodlist, 10);
+        List<ExtractedResult> searchResults = FuzzySearch.extractTop(food, bla, 10);
 
 
         for (ExtractedResult result : searchResults) {
@@ -40,5 +48,20 @@ public class Basicshoppinglist {
 
     }
 
+    public void addRecipie(recipes recipe){
 
+
+        List<String> ProductsString = new ArrayList<>();
+
+        for (Product products : allProducts){
+            ProductsString.add(products.getName());
+        }
+
+        List<String> ingridiens = recipe.ingredient;
+
+        for (String ingredient: ingridiens) {
+            ingredient = ingredient.replaceAll("[^a-z A-ZæøåÆØÅ]", "");
+            list.add(allProducts.get(FuzzySearch.extractOne(ingredient, ProductsString).getIndex()));
+        }
+    }
 }

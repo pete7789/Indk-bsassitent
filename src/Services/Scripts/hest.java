@@ -3,6 +3,7 @@ package Services.Scripts;
 import GUI.*;
 import Indkøbsliste.Food.Product;
 import Searching.Searching;
+import Shoppinglist.Shoppinglist.Basicshoppinglist;
 import recipes.*;
 
 import java.io.IOException;
@@ -19,10 +20,15 @@ public class hest {
 
         List <recipes> AllRecipes = Json_to_java.getRecipes();
 
-        for (recipes recipe: AllRecipes){
-            System.out.println(recipe.ingredient.get(1));
-        }
 
+        Basicshoppinglist newlist = new Basicshoppinglist();
+
+        newlist.addRecipie(AllRecipes.get(1));
+
+        for (Product tests : newlist.list){
+            System.out.println(tests.getName());
+        }
+/*
         Login loginScreen = new Login();
         loginScreen.setVisible(true);
         loginScreen.setLocationRelativeTo(null);
@@ -38,6 +44,6 @@ public class hest {
         Opskrifter opskriftScreen = new Opskrifter();
         opskriftScreen.setVisible(true);
         opskriftScreen.setLocationRelativeTo(null);
-
+*/
     }
 }
