@@ -12,7 +12,7 @@ public class Searching {
     private ArrayList<String> arraySource = new ArrayList<>();
     private ArrayList<Product> ItemsResults = new ArrayList<>();
 
-    public ArrayList<Product> FuzzySearchByName(String term, List<Product> items, int cutoff) {
+    public  ArrayList<Product> FuzzySearchByName(String term, List<Product> items, int cutoff) {
 
         //avoid OutOfBounds exception
         if (cutoff > items.size()) cutoff = items.size();

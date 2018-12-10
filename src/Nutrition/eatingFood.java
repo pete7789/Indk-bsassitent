@@ -30,6 +30,9 @@ public class eatingFood {
         for(i=0; i < amount; i++) {
             System.out.println("What food did you eat today: ");
             Scanner sc1 = new Scanner(System.in);
+
+
+
             arrayOfFoodEaten[i] = sc1.nextLine();
         }
         return arrayOfFoodEaten[i];
