@@ -15,7 +15,7 @@ for (id; id <= 431; id++) {
                 img: 'img@src'
             })
             .data(function (result) {
-                jsonfile.writeFileSync('src/Services/Scripts/Bilka.json', result, {flag: 'a'}); //npm i jsonfile
+                jsonfile.writeFileSync('src/Services/Scripts/Bilka.json', result, {flag: 'a'});
             })
             .error(console.log)
             .debug(console.log)
