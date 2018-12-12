@@ -2,25 +2,31 @@ package Nutrition;
 
 import me.xdrop.fuzzywuzzy.FuzzySearch;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class EatenFood {
 
     List<FoodInfo> AllFood;
-    List<String> FoodNames;
-    List<FoodInfo> FoodEaten;
+    public List<FoodInfo> FoodEaten = new ArrayList<>();
     int KJ;
     int kcal;
 
-    public EatenFood(List<FoodInfo> allFood) {
+    public EatenFood() {
         var loadFood = new GetInfo();
         AllFood = loadFood.InfoList;
     }
 
     public void foodAdd(int amount, String type){
 
+
+        List<String> FoodNames = new ArrayList<>();
+
         for (FoodInfo food : AllFood) {
-            FoodNames.add(food.getFoodName());
+            String check = food.getFoodName();
+            if (check.compareTo(" ") != 0) {
+                FoodNames.add(check);
+            }
         }
 
         FoodInfo current = AllFood.get(FuzzySearch.extractOne(type, FoodNames).getIndex());

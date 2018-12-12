@@ -21,8 +21,8 @@ public class Basicshoppinglist {
     }
 
     //Add a new ShoppingItem to the list
-    public void addItems(List<Product> items){
-        list.addAll(items);
+    public void addItems(Product item){
+        list.add(item);
     }
 
     public void removeItem(int index){

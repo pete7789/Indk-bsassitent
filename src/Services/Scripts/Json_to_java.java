@@ -13,7 +13,7 @@ import java.util.List;
 // The class Json to java converts all the data from the stores to java objects
 public class Json_to_java {
 
-        public List<Product> make_list() throws IOException {
+        public static List<Product> make_list() throws IOException {
 
             // The var products is used to store all the data in objects
             List<Product> products = new ArrayList<>();
@@ -59,5 +59,5 @@ public class Json_to_java {
         }
         return AllRecipes;
     }
-    }
+}
 
