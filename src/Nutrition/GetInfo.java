@@ -10,6 +10,8 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
+
+
 public class GetInfo {
 
     private static final String DTU_GET_INFO = "src/Nutrition/Fodevaredata_prog_v3_new6.csv";

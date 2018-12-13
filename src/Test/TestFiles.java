@@ -3,9 +3,12 @@ package Test;
 import Indkøbsliste.Food.Product;
 import Nutrition.EatenFood;
 import Nutrition.GetInfo;
+import Nutrition.UserInfo;
 import Nutrition.kcalcalcu;
+import Searching.Searching;
 import Services.Scripts.Json_to_java;
 import Shoppinglist.Shoppinglist.Basicshoppinglist;
+import Sort.Quicksort;
 import org.junit.jupiter.api.Test;
 import recipes.recipes;
 
@@ -15,14 +18,22 @@ import java.util.List;
 import static Services.Scripts.Json_to_java.getRecipes;
 import static Services.Scripts.Json_to_java.make_list;
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class TestFiles {
 
 
     @Test
-    public void CheckJsonStores() throws IOException {
+    public void CheckJsonStoresBilka() throws IOException {
         List<Product> products = Json_to_java.make_list();
         assertEquals(products.get(1).getStore(), "Bilka");
+
+    }
+
+    @Test
+    public void CheckJsonStoresFoetex() throws IOException {
+        List<Product> products = Json_to_java.make_list();
+        assertEquals(products.get(7000).getStore(), "Foetex");
 
     }
 
@@ -125,6 +136,16 @@ public class TestFiles {
     }
 
     @Test
+    public void RemoveFoodToDiet(){
+        var NewList = new EatenFood();
+        NewList.foodAdd(100, "Cheese");
+        NewList.foodDelete(100,0);
+        assertEquals(0, NewList.FoodEaten.size());
+    }
+
+
+
+    @Test
     public void LoadInDTUInfo(){
         var info = new GetInfo();
         assertEquals(1188, info.getInfoList().size());
@@ -134,5 +155,32 @@ public class TestFiles {
     public void KcalCalculate(){
         var calculate = new kcalcalcu(185, 80);
         assertEquals(2000, calculate.getKcalcal());
+    }
+
+    @Test
+    public void NewUserKcal(){
+        var NewUser = new UserInfo("Hans", 30, 185, 85);
+        assertEquals(2125, NewUser.getKcal());
+    }
+
+    @Test
+    public void NewUserKJ(){
+        var NewUser = new UserInfo("Hans", 30, 185, 85);
+        assertEquals(8891, NewUser.getKJ());
+    }
+
+    @Test
+    public void Searching() throws IOException {
+        List<Product> List = Json_to_java.make_list();
+        var NewSearch = new Searching();
+        List <Product> Found = NewSearch.FuzzySearchByName("kage", List, 10);
+        assertEquals(10, Found.size());
+    }
+
+    @Test
+    public void QuickSort() throws IOException {
+        List<Product> List = Json_to_java.make_list();
+        List.sort(new Quicksort());
+        assertTrue(List.get(1).getName().compareTo(List.get(2).getName()) > 0);
     }
 }

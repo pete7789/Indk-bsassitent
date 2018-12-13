@@ -5,7 +5,7 @@ import java.io.IOException;
 
 public class Autonode {
 
-    public static void main(String[] args) throws IOException, InterruptedException {
+    public static void main(String[] args) throws InterruptedException {
         File file = new File("src/Services/Scripts/Bilka.json");
         File file2 = new File("src/Services/Scripts/Foetex.json");
 

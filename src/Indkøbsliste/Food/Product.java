@@ -1,5 +1,8 @@
 package Indkøbsliste.Food;
 
+/* This class is made as a structure for
+   all the products loaded from all the stores*/
+
 public class Product {
     private String name;
     private String price;

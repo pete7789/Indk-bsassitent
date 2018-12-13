@@ -1,5 +1,8 @@
 package Nutrition;
 
+/* This class is made as a structure for
+   all the food information loaded from DTU*/
+
 public class FoodInfo {
     private String FoodName;
     private int KJ;
@@ -10,6 +13,7 @@ public class FoodInfo {
     private double Salt;
     private double Fat;
     private double SaturatedFat;
+
 
     public FoodInfo(String foodName, String kj, String kcal, String protein,
                     String carbohydrate, String sugar, String salt, String fat, String saturatedFat) {
